@@ -1,2 +1,2 @@
 console.log('Hello! World');
-console.log('Hello tu Jula ;* nie kasujcie tej wiadomosci proszę');
+console.log('Hello tu Michal nie obraź się za skasowanie wiadomosci');
