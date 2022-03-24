@@ -1,1 +1,5 @@
-console.log("siemaa");
+<<<<<<< HEAD
+console.log("siemaa!!!!");
+=======
+console.log("bajo");
+>>>>>>> ea50bb2efa3b6ba4a8a99a52ad6fa2437ce19fe9
